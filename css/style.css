@@ -152,11 +152,7 @@ button.btn.view-btn:hover{
     padding-bottom: 90px !important;
     padding-top: 45px !important;
 }
-.ro-1{
-    padding-left: 200px;
-    padding-right: 200px; 
-    color:white;
-}
+
 .col-main{
     background: #fff;
     padding: 5px;
@@ -219,4 +215,39 @@ button.btn.view-btn:hover{
     font-weight: 800 !important;
     font-size: 40px;
     color: #5937E0;
+}
+.car-image{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+.ds-1{
+    padding-bottom: 2% !important;
+}
+
+/* Mobile styles */
+
+@media (max-width: 768px) {
+  .bo-1 {
+    width: 100%;
+  }
+.fact{
+    gap:15px;
+}
+.form-control{
+    width:100% !important;
+}
+.city{
+    gap:50px;
+}
+.go-1{
+    gap:40px;
+}
+.cars{
+    gap:50px;
+}
+.looking-car{
+    gap:45px;
+}
 }
