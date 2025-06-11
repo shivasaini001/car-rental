@@ -25,3 +25,4 @@ function changeMainImage(thumbnail) {
     mainImage.src = thumbnail.src;
 }
 
+

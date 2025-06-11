@@ -250,4 +250,7 @@ button.btn.view-btn:hover{
 .looking-car{
     gap:45px;
 }
+.last{
+    display: none;
+}
 }
