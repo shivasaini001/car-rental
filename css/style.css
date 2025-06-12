@@ -253,4 +253,7 @@ button.btn.view-btn:hover{
 .last{
     display: none;
 }
+.logo-car{
+    gap: 25px;
+}
 }
